@@ -13,3 +13,13 @@ kilometer = 0.621
 logged_in = false
 tutition_paid = true
 hungry = true
+
+email = "organization@betteremail.com"
+car = "honda"
+hat = "tophat"
+
+puts age
+puts tons
+puts email
+puts hungry
+puts kilometer 
